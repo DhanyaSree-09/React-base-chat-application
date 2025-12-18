@@ -1,9 +1,9 @@
-💬 React Chat Application
+# React Chat Application
 
 A real-time chat application built using React, designed with a clean user interface and component-based architecture.
 This project demonstrates strong fundamentals of React, state management, and modern frontend development practices.
 
-✨ Key Features
+# ✨ Key Features
 
 Interactive and responsive chat UI built with React
 
@@ -15,17 +15,17 @@ Clean and minimal design focused on usability
 
 Scalable structure suitable for real-time enhancements
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React, JavaScript, HTML, CSS
 
 Version Control: Git & GitHub
 
-🚀 Project Status
+# 🚀 Project Status
 
-🚧 Deployment in progress — will be deployed within 2 days
+🚧 Deployment in progress — will be deployed within soon
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Real-time messaging using WebSockets / Firebase
 
