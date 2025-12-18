@@ -23,7 +23,7 @@ Version Control: Git & GitHub
 
 # 🚀 Project Status
 
-🚧 Deployment in progress — will be deployed within soon
+🚧 Deployment in progress — will be deployed soon
 
 # 🔮 Future Enhancements
 
